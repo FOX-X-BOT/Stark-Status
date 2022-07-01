@@ -22,10 +22,10 @@ status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: starkindustrystatus.vercel.app
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  favicon: https://raw.githubusercontent.com/StarkIndustriesTG/StarkIndustriesTG/main/ace253670ba93ccc8ce2fb67da7c0b9a.jpg?raw=true
+  favicon: https://github.com/StarkIndustriesTG/StarkIndustriesTG/main/ace253670ba93ccc8ce2fb67da7c0b9a.jpg?raw=true
   # baseUrl: /Stark-Status
   theme: dark
-  logoUrl: https://raw.githubusercontent.com/StarkIndustriesTG/StarkIndustriesTG/main/ace253670ba93ccc8ce2fb67da7c0b9a.jpg?raw=true
+  logoUrl: https://github.com/StarkIndustriesTG/StarkIndustriesTG/main/ace253670ba93ccc8ce2fb67da7c0b9a.jpg?raw=true
   name: Stark Status
   introTitle: " "
   introMessage: " " 
@@ -43,14 +43,14 @@ i18n:
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
-#  up: "✅ Up"
-#  degraded: "⚠️ Degraded"
-#  down: "🚨 Down"
-#  liveStatusHtmlComment: "<!--live status-->"
-#  allSystemsOperational: "✅ All systems operational"
-#  degradedPerformance: "⚠️ Degraded performance"
-#  completeOutage: "🚨 Complete outage"
-#  partialOutage: "🟧 Partial outage"  
+  up: "✅ Up"
+  degraded: "⚠️ Degraded"
+  down: "🚨 Down"
+  liveStatusHtmlComment: "<!--live status-->"
+  allSystemsOperational: "✅ All systems operational"
+  degradedPerformance: "⚠️ Degraded performance"
+  completeOutage: "🚨 Complete outage"
+  partialOutage: "🟧 Partial outage"  
 
 commitMessages:
   commitAuthorName: "NKMBot"
