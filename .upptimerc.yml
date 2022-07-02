@@ -20,6 +20,11 @@ sites:
   - name: Virus Scan Bot
     url: $VIRUS_TOTAL
     icon: https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif
+  - name: Jarvis Stark Bot
+    check: "tcp-ping"
+    url: $JARVIS
+    Port: 80
+    icon: https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
