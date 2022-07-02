@@ -22,10 +22,10 @@ status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: starkindustrystatus.vercel.app
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  favicon: https://github.com/StarkIndustriesTG/StarkIndustriesTG/main/ace253670ba93ccc8ce2fb67da7c0b9a.jpg?raw=true
+  favicon: https://github.com/StarkIndustriesTG/StarkIndustriesTG/main/Stark.png?raw=true
   # baseUrl: /Stark-Status
   theme: dark
-  logoUrl: https://github.com/StarkIndustriesTG/StarkIndustriesTG/main/ace253670ba93ccc8ce2fb67da7c0b9a.jpg?raw=true
+  logoUrl: https://github.com/StarkIndustriesTG/StarkIndustriesTG/main/Stark.png?raw=true
   name: Stark Status
   introTitle: " "
   introMessage: " " 
