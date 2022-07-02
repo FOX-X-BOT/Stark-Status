@@ -1,5 +1,5 @@
 # Change these first
-owner: FOX-X-BOT  # Your GitHub username
+owner: FOX-X-BOT  # Your GitHub usernames
 repo: Stark-Status # Your GitHub repository name
 
 skipDescriptionUpdate: true
