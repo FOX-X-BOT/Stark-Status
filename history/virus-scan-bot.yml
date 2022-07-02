@@ -1,7 +1,7 @@
 url: $VIRUS_TOTAL
 status: down
-code: 403
-responseTime: 104
-lastUpdated: 2022-07-02T11:35:27.056Z
+code: 502
+responseTime: 603
+lastUpdated: 2022-07-02T11:49:48.866Z
 startTime: Sat Jul 02 2022 02:51:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
