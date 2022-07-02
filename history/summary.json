@@ -4,19 +4,19 @@
     "url": "https://www.cloudflare.com",
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "cache-server",
-    "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "status": "up",
+    "uptime": "99.68%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
     "time": 139,
     "timeDay": 139,
     "timeWeek": 139,
     "timeMonth": 139,
     "timeYear": 139,
     "dailyMinutesDown": {
-      "2022-07-02": 2
+      "2022-07-02": 4
     }
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-02": 697,
+      "2022-07-02": 701,
       "2022-07-01": 519
     }
   },
@@ -75,7 +75,7 @@
     "timeMonth": 431,
     "timeYear": 431,
     "dailyMinutesDown": {
-      "2022-07-02": 526
+      "2022-07-02": 529
     }
   },
   {
@@ -95,7 +95,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-02": 490
+      "2022-07-02": 494
     }
   }
 ]
