@@ -20,10 +20,8 @@ sites:
   - name: Virus Scan Bot
     url: $VIRUS_TOTAL
     icon: https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif
-  - name: Jarvis Stark Bot
-    check: "tcp-ping"
+  - name: Stark Mirror
     url: $JARVIS
-    Port: 80
     icon: https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif
   - name: Stark Index
     url: https://starkmirror.stark-mirror.workers.dev
