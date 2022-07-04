@@ -15,7 +15,7 @@ sites:
     url: https://www.mongodb.com
     icon: https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif
   - name: Azure
-    url: Azure
+    url: https://portal.azure.com/
     icon: https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif
   - name: Virus Scan Bot
     url: $VIRUS_TOTAL
@@ -24,6 +24,9 @@ sites:
     check: "tcp-ping"
     url: $JARVIS
     Port: 80
+    icon: https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif
+  - name: Stark Index
+    url: https://starkmirror.stark-mirror.workers.dev
     icon: https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif
 
 status-website:
