@@ -66,4 +66,4 @@ commitMessages:
   commitAuthorEmail: "uptime-bot@navaneethkm.gq"
 
 workflowSchedule:
-  uptime: "*/5 * * * *"
+  uptime: "*/2 * * * *"
